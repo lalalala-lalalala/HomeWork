@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.Form1.resources
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\DELL\Desktop\HomeWork\HomeWork1\assignment2\assignment2\obj\Debug\assignment2.pdb
